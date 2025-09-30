@@ -1,4 +1,4 @@
- readme_content = """# 🧩 Role-Based Projects Module
+ readme_content =  Role-Based Projects Module
 
 A full-stack web application that demonstrates **Authentication**, **Email OTP Verification**, and **Role-Based Access Control (RBAC)**.
 The system provides two user roles: **Admin** and **Normal User**, each with specific permissions for managing projects.
