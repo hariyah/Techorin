@@ -71,9 +71,9 @@ backend/
 │
 └── package.json
 
-## ⚙️ Installation & Setup Instructions
+ Installation & Setup Instructions
 
-### 🗄️ Backend Setup
+ Backend Setup
 
 1. **Clone the repository:**
    ```bash
